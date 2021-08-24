@@ -1,0 +1,33 @@
+#write{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: lightpink;
+    border: solid 1px black;
+    color: black;
+}
+#name {
+    bottom: 34px;
+    position: fixed;
+    left: 0;
+    background-color: lightpink;
+    border: solid 1px black;
+    color: black;
+}
+body {
+    background-color: lightpink;
+}
+#members {
+    background-color: lightcyan;
+    width: 20vw;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 15px 15px;
+    
+}
+#messages {
+    margin-bottom: 4rem;
+    width: 80vw;
+    
+}
